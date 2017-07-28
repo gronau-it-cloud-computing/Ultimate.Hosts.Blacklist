@@ -1,9 +1,9 @@
 ##### Version Information #
-#### Version: V1.2017.07.49
+#### Version: V1.2017.07.50
 #### Total IP's: 64,020
 ##### Version Information ##
 
-# ##### START badips.com Block List # DO NOT EDIT #####
+# ##### START hosts.deny Block List # DO NOT EDIT #####
 ALL: 100.12.89.79
 ALL: 100.14.202.242
 ALL: 100.2.245.16
@@ -64024,4 +64024,4 @@ ALL: 99.59.76.180
 ALL: 99.63.194.183 
 ALL: 99.63.238.108
 ALL: 99.70.57.114
-# ##### END badips.com Block List # DO NOT EDIT #####
+# ##### END hosts.deny Block List # DO NOT EDIT #####
