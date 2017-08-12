@@ -8488,7 +8488,6 @@ adapd.com
 adapi.ragapa.com
 ad.appflood.com
 ad.appia.com
-ad.apple.com
 ad.applifier.com
 ad.appnext.com
 adaptationsbyadrian.com
@@ -9468,7 +9467,6 @@ adlog.adwhirl.com
 adlog.airpush.com
 adlog.appflood.com
 adlog.appia.com
-adlog.apple.com
 adlog.applifier.com
 adlog.appnext.com
 adlog.bidmath.com
@@ -10641,7 +10639,6 @@ ads.apn.co.nz
 ads.apn.co.za
 ads.appflood.com
 ads.appia.com
-ads.apple.com
 ads.appleinsider.com
 ads.applifier.com
 ads.appnext.com
@@ -12833,7 +12830,6 @@ ads.tv7.bg
 ads.tv7.sporta.bg
 ads.tvtv.bg
 ads.tw.adsonar.com
-ads.twitter.com
 ads.ucomics.com
 ads.uigc.net
 ads.ukclimbing.com
@@ -18559,7 +18555,6 @@ analytics.tout.com
 analytics.traidnt.net
 analytics.tribeca.vidavee.com
 analytics.trutv.com
-analytics.twitter.com
 analyticsummit.com
 analytics.unister-gmbh.de
 analytics.upworthy.com
@@ -25430,7 +25425,6 @@ auto-kosmos.net
 autolackierbedarf.com
 autolikefb.net
 autolikesandfreefb.ml
-autolinkmaker.itunes.apple.com
 autolinkweb.com
 autoloanforall.com
 autoloans.com
@@ -47077,7 +47071,6 @@ cnn-africa.co
 cnnax.com
 cnn-breaking-news.info
 cnn.cm
-cnn.dyn.cnn.com
 cnn.entertainment.printthis.clickability.com
 cnn-generics.com
 cnnglobal.122.2o7.net
@@ -48977,7 +48970,6 @@ connectedclub.gr
 connectedtokyo.com
 connect.ekomi.de
 connecte.service-confirmations-accountes.com
-connect.facebook.com
 connectgm.hk
 connecthard.com
 connectingthreads.com
@@ -51337,8 +51329,6 @@ creative.ad121m.com
 creative.ad131m.com
 creative.adbooth.net
 creative.adshuffle.com
-creative.ak.facebook.com
-creative.ak.fbcdn.net
 creativeartworks.cc
 creative-audio.co.uk
 creativeawardsaz.com
@@ -52545,7 +52535,6 @@ custodieva.ru
 custom3hurricanedigitalmedia.com
 custom.adagogo.com
 custom.adbuddiz.com
-customad.cnn.com
 custom.adfonic.com
 custom.adiquity.com
 custom.admarvel.com
@@ -54440,7 +54429,6 @@ data.chartboost.com
 data.circulate.com
 data.clicksmob.com
 data.cmcore.com
-data.cnn.com
 datacollector.coin.scribol.com
 dataconfidentiality.com
 data.coremetrics.com
@@ -66642,8 +66630,6 @@ errordns.com
 errordnspage.com
 errordnsurl.com
 errordoctor.com
-error.facebook.com
-error.facebook.net
 error.fc2.com
 errorfighter.com
 error-files.com
@@ -80356,7 +80342,6 @@ gdtfs.co.uk
 gdtrbxg.com
 gdusnud.com
 gdyed.myjino.ru
-gdyn.cnn.com
 gdyn.cnngo.com
 gdyn.nascar.com
 gdyn.nba.com
@@ -97944,7 +97929,6 @@ iphone-iosui.com
 iphone-isoui.com
 iphonekor.com
 iphonelostsupport.com
-iphonemms.apple.com
 iphoneprank.net
 iphoneproblems.org
 iphone-recovery.info
@@ -117454,7 +117438,6 @@ metrics.chacha.com
 metrics.chmedia.com
 metrics.chron.com
 metrics.cleveland.com
-metrics.cnn.com
 metrics-collector.onscroll.com
 metrics.compactappliance.com
 metrics.corus.ca
@@ -128039,7 +128022,6 @@ notalyyj.com
 notanangel.deluxepass.com
 notanshop.com
 notarangelo.com
-notarealsubdomain.twitter.com
 notaria-desalas.com
 notariadesarria.com
 notaris-office.com
@@ -144855,7 +144837,6 @@ ptuph.barginginfrance.net
 pturt.com
 ptush.iptvdeals.com
 pt-verificacao-online.com
-p.twitter.com
 ptwoody.com
 p.typekit.net
 pu2.pl
@@ -155431,7 +155412,6 @@ scribblevideos.com
 scribblingink.com
 scribesdelight.com
 scribes.ie
-scribe.twitter.com
 scribhun.com
 scribol.com
 scrimsflorist.com
@@ -168791,7 +168771,6 @@ store.amigofoods.com
 store.animearigato.com
 store.anniescharmcloset.net
 store-appid.com
-store.apple.com
 storeapps24.com
 store.astrapiafashion.com
 store.babycenter.com
@@ -176667,7 +176646,6 @@ tiads.ew.com
 tiads.health.com
 tiads.instyle.com
 tiads.people.com
-tiads.sportsillustrated.cnn.com
 tiads.timeinc.net
 tiamat64.free.fr
 tiamat-web.com
@@ -192099,7 +192077,6 @@ wvais.com
 wvasilevcampers.krovatka.su
 wvcartscouncil.org
 wvgjpmhjfjdsbmgj.ru
-wvhack.facebook.com
 wvhotline.com
 wv.inner-active.mobi
 wvin.su
