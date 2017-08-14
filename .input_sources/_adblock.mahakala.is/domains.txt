@@ -11857,7 +11857,6 @@ ads.iknowthatgirl.com
 ads.illuminatednation.com
 ads.imaging-resource.com
 ads.imarketservices.com
-ads.imdb.com
 ads.imeem.com
 ad.simgames.net
 ads.img.co.za
@@ -163087,7 +163086,6 @@ smdico.com
 smd.overlasting.com
 smeatvan.biz
 smedbuy.org
-s.media-imdb.com
 sme-diary.org
 smedizin.oewabox.at
 smedlock.com
